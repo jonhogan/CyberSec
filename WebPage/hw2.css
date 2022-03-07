@@ -1,0 +1,27 @@
+body{
+    background-color: #010101;
+}
+
+
+.imgCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textCenter{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.odin{
+    color: #dbd9eb;
+    margin: auto;
+    width: 50%;
+    font-size: 300%;
+}
+
+.textColor{
+    color: #dbd9eb
+}
